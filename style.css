@@ -6,7 +6,24 @@
     background-size:cover;
     box-shadow: 1px 1px 2px #e5f068;
 }
-.head1 h1,p{
+.head1 h1{
     font-family: 'Bricolage Grotesque', sans-serif;
     text-shadow: 1px 1px 2px #000;    
+}
+
+nav{
+    background-image: linear-gradient(rgb(208, 244, 203),rgb(248, 248, 206));
+    box-shadow: 1px 1px 2px #d3cdcd;
+}
+ul .active{
+    background-color: rgb(143, 242, 113)!important;
+}
+
+.post h6{
+    margin-left: 40px;
+    font-size: 10px;
+}
+.story{
+    box-shadow: 1px 1px 2px rgb(119, 119, 118);
+    padding:10px;
 }
