@@ -27,3 +27,6 @@ ul .active{
     box-shadow: 1px 1px 2px rgb(119, 119, 118);
     padding:10px;
 }
+.story i{
+    background-image: linear-gradient(rgb(208, 244, 203),rgb(248, 248, 206));
+}
