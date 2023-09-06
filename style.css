@@ -30,3 +30,9 @@ ul .active{
 .story i{
     background-image: linear-gradient(rgb(208, 244, 203),rgb(248, 248, 206));
 }
+.fa-share:hover{
+    color:#000!important;
+}
+.footer a{
+    text-decoration: none!important;
+}
